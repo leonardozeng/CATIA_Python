@@ -1,21 +1,17 @@
-''' notes on the book
-Python Programming on Win32 by Marc Hammond	
-'''
+# notes on the book Python Programming on Win32 by Marc Hammond	
 
-''' Notes
-# python is written in C
-# windows uses DLL (dynamic link library) , which allow C code to be stored in one file
-#	and loaded dynamically. Most of pythons functionailty lives in a DLL file
+python is written in C
+windows uses DLL (dynamic link library) , which allow C code to be stored in one file
+and loaded dynamically. Most of pythons functionailty lives in a DLL file
 
 COM(component Object Model) and CORBA(Common Object Request Vroker Architecture)
  allow middle ground between different programming languages to talk to each other on 
  different platforms
 
-# VBA
-# () indicates a function call
-# [] indicates an array index
+VBA
+() indicates a function call
+[] indicates an array index
 
-'''
 
 
 
